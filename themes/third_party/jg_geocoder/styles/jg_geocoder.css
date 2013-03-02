@@ -1,0 +1,9 @@
+.ui-autocomplete {
+    background-color: white;
+    border: 1px solid #cfcfcf;
+    list-style-type: none;
+}
+
+.publish_jg_geocoder .ft_jg_geocoder_address {
+	width: 500px;
+}
